@@ -6,6 +6,7 @@ Most of these notes are in picture format and some are incomplete. To save space
 - Java Concurrency in Practice
 - Java Generics
 - Linkers and Loaders
+- H.264
 
 ## Economics
 - After the Music Stopped: The Financial Crisis and the Work Ahead
@@ -18,11 +19,15 @@ Most of these notes are in picture format and some are incomplete. To save space
 - Money, Banking, and Financial Markets
 - Panic, Prosperity, and Progress
 
-# Courses
+## Courses
 - ECE 458: Security
 - ECE 457A: Adaptive Algos
 
-# Miscellaneous
+## Miscellaneous
+- Barking up the Wrong Tree
+- Canadian Law
 - Career Playbook (incomplete)
-- Every I Never Leared in School about How to Be Successful
+- Every I Never Learned in School about How to Be Successful
+- The Subtle Art of Not Giving a F*ck
 - Zero to One
+- Interviews
