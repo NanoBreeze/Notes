@@ -28,6 +28,7 @@ Most of these notes are in picture format and some are incomplete. To save space
 - Canadian Law
 - Career Playbook (incomplete)
 - Every I Never Learned in School about How to Be Successful
+- Social Psychology: 13th Edition
 - The Subtle Art of Not Giving a F*ck
 - Zero to One
 - Interviews
