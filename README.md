@@ -29,6 +29,8 @@ Most of these notes are in picture format and some are incomplete. To save space
 - Career Playbook (incomplete)
 - Every I Never Learned in School about How to Be Successful
 - Social Psychology: 13th Edition
+- The Millionaire Next Door
+- The Myths of Happiness (selected chapters)
 - The Subtle Art of Not Giving a F*ck
 - Zero to One
 - Interviews
