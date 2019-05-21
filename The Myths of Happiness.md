@@ -58,6 +58,27 @@
 	3. Spend money to make time
 	4. Spend money, but enjoy it later. Anticipation of good events can cause happiness
 	
+## Chap 9: I can't be happy when ... I know I'll Never Play Shortstop for yhe Yankees
+
+- When people strive for a goal and fail, some are bitter while others are proud and gratified by earlier efforts and achievements. Why the different attitudes? **Because of the assumption about whether we can still be happy despite not having realized our dreams
+- "Life doesn't always unfold the way we want it to"
+- "We must acknowledge our regrets and the challenges that we have faced in the past. **But there is a critical next step: to move on by committing ourselves to new pursuits**, which admittedly may be shaped in part by these past challenges" 
+	- Moving on is the difference between those who stayed bitter and those who felt grateful
+- Coming to terms with our regrets is necessary, and in the long run, beneficial even though it can be temporarily painful.
+	- While we acknowledge our regrets, it's important not to ruminate/overthink and dwell on these negative feelings. Signs of ruminating include:
+		1. finding ourselves going over the same material again and again without increased understanding
+		2. we don't feel we have complete control over the exercise. Thoughts and images pop up in our minds even when we don't want to
+- Considering "what-ifs" help us understand the meaning of events from a big-picture perspective, what we learned from them, where they brought us to be, etc. 
+- We tend to have more regrets on things we didn't do than things we did to. Several reasons:
+	- easier to rationalize actions than inactions
+	- regrets over inaction magnify over time
+	- the consequences of inactions are limitless. 
+- The solution is to take more risks. Preventing regret over inaction is a good motivator for most of us to take action.
+
+> "Regret is fueled by self-blame and burns brighter under self-doubt"
+
+> "autobiographical coherence", "counterfactuals", "lost possible selves"
+
 ## Chap 10: I can't be happy when ... the best years of my life are over
 
 - Fallacy that we can judge the best years of our lives. Second fallacy is the myth that the younger we are, the happier

@@ -34,3 +34,4 @@ Most of these notes are in picture format and some are incomplete. To save space
 - The Subtle Art of Not Giving a F*ck
 - Zero to One
 - Interviews
+- Coursera: The Science of Wellbeing (Happines Course)
